@@ -1,8 +1,29 @@
-# URL-shortener
-this is a URL shortener, which makes the long url into a short url
+# URL Shortener
 
-#Run backend/server
-npm start/ nodemon index.js
+A simple URL shortener application that converts long URLs into short, easy-to-share links.
 
-#Run frontend/client
-npm start
+---
+
+## Features
+- Shorten long URLs into compact links.
+- Easy to use backend and frontend setup.
+- Ready for full-stack expansion.
+
+---
+
+## Tech Stack
+- **Backend:** Node.js, Express
+- **Frontend:** React
+- **Database:** MongoDB
+
+---
+## Install dependencies
+- **npm install**
+
+---
+## Run backend)(server)
+- **nodemon index.js**
+
+## Run frontend(client)
+- **cd client**
+- **npm start**
